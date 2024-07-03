@@ -1,0 +1,27 @@
+.item-card{
+    width: 250px;
+    display:inline-block;
+    
+}
+.ee{
+    display: inline-block;
+    margin: 10px;
+    
+}
+.btn2{
+    margin-left: 110px;
+    background-color: orangered;
+    border: none;
+    font-weight: 700;
+}
+.spam{
+    color: gold;
+}
+.loco{
+    display:inline-block;
+}
+.star{
+    display:inline-block;
+    margin-left: 100px;
+
+}

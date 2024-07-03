@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    position:sticky;
+  
+}
+.nav-logo{
+    margin: 10px;
+    width: 200px;
+    margin-left: 100px;
+    display: inline-flex;
+}
+.nav-header{
+ display: inline-flex;
+ margin-top:10px;
+
+}
+.dd{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 79px;
+}
+
+ol{
+    display: inline-flex;
+}
+li{
+    display: inline-flex;
+    margin: 20px;
+    cursor: pointer;
+}
+li:hover{
+    color: orangered;
+}
+.h{
+    margin-left: 150px  ;
+}
+.btn12{
+    margin-left: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+}
+.btn12:hover{
+    background-color: orangered;
+    color: white;
+}
+.cart-btn{
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:white;
+    font-weight: 500;
+    background-color: orangered;
+    
+
+}
+.cart{
+    width: 20px;
+}
+.no{
+    background-color:transparent;
+    border: none;
+    cursor: pointer;
+}
+li{
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black; 
+}

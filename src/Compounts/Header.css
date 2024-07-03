@@ -1,0 +1,319 @@
+.header1 {
+    background-color: orangered;
+    padding: 10px;
+    width: 240px;
+    border-radius: 150px;
+    margin-top: 90px;
+    display: inline-block;
+}
+
+.world {
+    width: 40px;
+    display: inline-block;
+}
+
+spam {
+    color: orangered;
+}
+
+.hero1 {
+    width: 180px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.hero2 {
+    width: 180px;
+    border-radius: 20px;
+    height: 300px;
+
+}
+
+.hero3 {
+    width: 180px;
+    border-radius: 20px;
+    height: 300px;
+
+}
+
+.col-2-1 {
+    margin-top: 50px;
+}
+
+.col-2-2 {
+    margin-top: 100px;
+}
+
+.col-2-3 {
+    margin-top: 150px;
+}
+
+.col-8 {
+    background-color: rgb(206, 203, 203);
+    width: 800px;
+    height: 70px;
+    border-radius: 70px;
+}
+
+.hr {
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 5px;
+    margin-top: 20px;
+}
+
+/* 
+.inner{
+
+
+}     */
+
+.col-33 {
+    width: 250px;
+    margin: 10px;
+    height: 170px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    box-shadow: 4px 2px 5px black;
+}
+
+.btn1 {
+    border-radius: 100%;
+    width: 60px;
+    background-color: orangered;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.weather {
+    width: 40px;
+    border-radius: 100%;
+
+
+}
+
+.btn1:hover {
+    background-color: black;
+
+}
+
+.he {
+    margin-top: 5px;
+    color: black;
+}
+
+.para {
+    color: gray;
+    font-size: medium;
+    font-weight: 200;
+}
+
+.head-red {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: red;
+}
+
+.best {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.header11 {
+    background-color: orangered;
+    padding: 10px;
+    width: 100px;
+    border-radius: 150px;
+    margin-top: 90px;
+
+}
+
+.header111 {
+    background-color: orangered;
+    padding: 10px;
+    width: 120px;
+    border-radius: 150px;
+    margin-top: 100px;
+
+}
+
+.experence {
+    margin-top: 100px;
+}
+
+.btnw {
+    background-color: orangered;
+    height: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 30px;
+
+}
+
+.test {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.test1 {
+    display: inline-block;
+    margin-left: 45px;
+}
+
+.img1 {
+    display: inline-block;
+    width: 250px;
+    height: 280px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: -150px;
+}
+
+.img7 {
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    height: 450px;
+    margin-top: 20px;
+}
+
+.img2 {
+    display: inline-block;
+    width: 250px;
+    margin: 10px;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: -180px;
+   
+}
+
+.img6 {
+    display: inline-block;
+    width: 210px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: -190px;
+    height: 250px;
+}
+
+.img5{
+    display: inline-block;
+    height: 400px;
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: -160px;
+}
+.img4{
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.img3{
+    display: inline-block;
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+    height: 420px;
+    margin-top: -200px;
+}
+.img77{
+    display: inline-block;
+    width: 210px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: -200px;
+    height: 430px;
+}
+
+.col-44{
+    width: 330px;
+    height: 300px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    box-shadow: 1px 5px 3px  black;
+    margin: 20px;
+}
+.para1w{
+    padding: 10px;
+    justify-content:left;
+}
+.avatar{
+    width: 90px;
+    height: 70px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px gray; 
+    display: inline-block;
+}
+.name{
+    display:inline-block;
+    
+}
+.na{
+    display: inline-block;
+    
+}
+.sub{
+    background-image: linear-gradient(white,orangered);
+    height: 400px;
+}
+.tra{
+    margin-top: 50px;
+    margin-left: 60px
+}
+.input{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 60px;
+    padding: 5px;
+    border:none;
+    border-radius: 5px;
+    height: 37px;
+}
+.inputbtn{
+    background-color: orangered;
+    color: white;
+    margin-left: 10px;
+}
+.inputbtn:hover{
+    background-color: black;
+    color: white;
+}
+.bg{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.here{
+    margin-top: -50px;
+    margin-left: -50px;
+}
+.lof{
+    width: 200px;
+    margin: 40px;
+}
+
+.ht{
+    margin:10px;
+    padding: 0;
+   display: block;
+   justify-content: baseline;
+}
+.vl{
+    border-left: 6px soild black;
+    height: 500px;
+}
+
+.re{
+    background-color: aliceblue;
+    width: 900px;
+    height: 80px;
+    border-radius: 10px;
+    padding: 10px
+}
+.in{
+    border: none;
+    background-color: transparent;
+}
